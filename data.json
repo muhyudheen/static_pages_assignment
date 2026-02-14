@@ -1,0 +1,190 @@
+{
+  "metadata": {
+    "email": "24f2000323@ds.study.iitm.ac.in",
+    "version": "bacc2d55"
+  },
+  "products": [
+    {
+      "id": "prod-bacc2d55-001",
+      "name": "Pro Item 1",
+      "category": "electronics",
+      "price": 420.03,
+      "stock": 3,
+      "rating": 1.6
+    },
+    {
+      "id": "prod-bacc2d55-002",
+      "name": "Premium Item 2",
+      "category": "clothing",
+      "price": 255.83,
+      "stock": 65,
+      "rating": 4.7
+    },
+    {
+      "id": "prod-bacc2d55-003",
+      "name": "Elite Item 3",
+      "category": "electronics",
+      "price": 116.58,
+      "stock": 73,
+      "rating": 3.1
+    },
+    {
+      "id": "prod-bacc2d55-004",
+      "name": "Standard Item 4",
+      "category": "sports",
+      "price": 123.36,
+      "stock": 13,
+      "rating": 1.3
+    },
+    {
+      "id": "prod-bacc2d55-005",
+      "name": "Elite Item 5",
+      "category": "clothing",
+      "price": 130.41,
+      "stock": 170,
+      "rating": 1.7
+    },
+    {
+      "id": "prod-bacc2d55-006",
+      "name": "Basic Item 6",
+      "category": "electronics",
+      "price": 168.76,
+      "stock": 11,
+      "rating": 2
+    },
+    {
+      "id": "prod-bacc2d55-007",
+      "name": "Pro Item 7",
+      "category": "electronics",
+      "price": 290.08,
+      "stock": 122,
+      "rating": 1.7
+    },
+    {
+      "id": "prod-bacc2d55-008",
+      "name": "Premium Item 8",
+      "category": "home",
+      "price": 106.07,
+      "stock": 52,
+      "rating": 1.7
+    },
+    {
+      "id": "prod-bacc2d55-009",
+      "name": "Standard Item 9",
+      "category": "clothing",
+      "price": 269.23,
+      "stock": 80,
+      "rating": 4.6
+    },
+    {
+      "id": "prod-bacc2d55-010",
+      "name": "Premium Item 10",
+      "category": "home",
+      "price": 111.45,
+      "stock": 101,
+      "rating": 1.4
+    },
+    {
+      "id": "prod-bacc2d55-011",
+      "name": "Pro Item 11",
+      "category": "sports",
+      "price": 489.62,
+      "stock": 166,
+      "rating": 3.2
+    },
+    {
+      "id": "prod-bacc2d55-012",
+      "name": "Elite Item 12",
+      "category": "electronics",
+      "price": 67.49,
+      "stock": 6,
+      "rating": 3.8
+    },
+    {
+      "id": "prod-bacc2d55-013",
+      "name": "Pro Item 13",
+      "category": "clothing",
+      "price": 413.03,
+      "stock": 145,
+      "rating": 3
+    },
+    {
+      "id": "prod-bacc2d55-014",
+      "name": "Basic Item 14",
+      "category": "sports",
+      "price": 300.05,
+      "stock": 53,
+      "rating": 1.4
+    },
+    {
+      "id": "prod-bacc2d55-015",
+      "name": "Standard Item 15",
+      "category": "books",
+      "price": 61.91,
+      "stock": 125,
+      "rating": 3.9
+    },
+    {
+      "id": "prod-bacc2d55-016",
+      "name": "Elite Item 16",
+      "category": "home",
+      "price": 108.17,
+      "stock": 168,
+      "rating": 3.8
+    },
+    {
+      "id": "prod-bacc2d55-017",
+      "name": "Premium Item 17",
+      "category": "electronics",
+      "price": 37.62,
+      "stock": 100,
+      "rating": 4.1
+    },
+    {
+      "id": "prod-bacc2d55-018",
+      "name": "Elite Item 18",
+      "category": "electronics",
+      "price": 212.71,
+      "stock": 37,
+      "rating": 3.5
+    },
+    {
+      "id": "prod-bacc2d55-019",
+      "name": "Basic Item 19",
+      "category": "clothing",
+      "price": 444.68,
+      "stock": 105,
+      "rating": 4.9
+    },
+    {
+      "id": "prod-bacc2d55-020",
+      "name": "Elite Item 20",
+      "category": "clothing",
+      "price": 160.48,
+      "stock": 156,
+      "rating": 2.7
+    },
+    {
+      "id": "prod-bacc2d55-021",
+      "name": "Pro Item 21",
+      "category": "clothing",
+      "price": 216.47,
+      "stock": 4,
+      "rating": 1.1
+    },
+    {
+      "id": "prod-bacc2d55-022",
+      "name": "Standard Item 22",
+      "category": "clothing",
+      "price": 187.09,
+      "stock": 114,
+      "rating": 2.4
+    }
+  ],
+  "aggregations": {
+    "clothing": {
+      "count": 8,
+      "inventoryValue": 214146.82
+    }
+  }
+}
